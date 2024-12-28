@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m a Sustainable Energy Engineer pursuing a Master’s in Sustainable Energy Technologies at DTU, with a focus on energy conversion, storage systems, and optimization modeling.
 
-<!--
-**gkarasak/gkarasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I specialize in:
 
-Here are some ideas to get you started:
+Programming: Python, GAMS, MATLAB
+Optimization & Modeling: Energy systems, clean energy technologies
+Data Analysis: Simulation, performance evaluation, and system optimization
+🌱 I’m passionate about leveraging technology to drive the clean energy transition and developing innovative hydrogen-related solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Current focus:
+
+Building models for energy optimization.
+Exploring advanced solutions in renewable energy integration.
+Let’s collaborate to create impactful energy solutions! 🌍
+
